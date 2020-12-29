@@ -4,6 +4,11 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+This Project Need Node Package Manager,
+So install by the npm install command
+
 ### `npm start`
 
 Runs the app in the development mode.\
